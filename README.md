@@ -3,7 +3,6 @@
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 link: https://chhaviarora1401.github.io/Module-5/index.html
-Last assignment and you are DONE!
 
 **Time to complete:** About 30 minutes.
 
