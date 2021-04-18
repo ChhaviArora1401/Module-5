@@ -16,6 +16,7 @@ In order to accomplish this, we need to change the home HTML snippet and, beside
 For this assignment, we changed this line to prepare it for a random category short_name to be this:
 
 <a href="#" onclick="$dc.loadMenuItems({{randomCategoryShortName}});">
+  
 Here is what you will need to complete the assignment:
 
 1. (If you haven't already) Create a GitHub.com account and a repository that you will use for this class.
